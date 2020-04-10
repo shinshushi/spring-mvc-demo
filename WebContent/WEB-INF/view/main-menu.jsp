@@ -9,6 +9,10 @@
 
 <a href="hello/showForm">Show Form</a>
 
+<br><br>
+
+<a href="customer/showForm">Customer Form</a>
+
 </body>
 
 </html>
